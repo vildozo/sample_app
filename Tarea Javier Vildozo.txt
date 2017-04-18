@@ -1,0 +1,2 @@
+heroku:  https://nameless-lowlands-18017.herokuapp.com/
+github: https://github.com/vildozo/sample_app
